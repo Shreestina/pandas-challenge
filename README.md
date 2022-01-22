@@ -59,4 +59,4 @@ Your final report should include each of the following:
 ## Three Observable Trends
 * As per gender demographics the majority of players are among male at 84.03%. The majority of players fall under the age bracket of 20-24 constituting 44.79%
 * The age group 20-24 tend to have higher buying capacity with total purchase value of $1114.06 and average total person per person at $4.76. However, the data shows that the 35-39 year olds have the highest average total purchas per person standing at $4.76
-* 
+* As per the observation from popular items Nirvana looks like the most profitable at 9 purchase counts while the most popular item, Final critic stands with 13 purchase counts and total purchase value of $59.99
